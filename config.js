@@ -7,7 +7,7 @@ var config = {
         "my dear Maga",  // 同上...
         "today is your birthday",
         "this is the first birthday we celebrate together",
-        "i hop we can celebrate together next next......year all together",
+        "I hop we can celebrate together next next......year all together",
         "we never celebrated birthdays together(T⌓T)",
        
     ],
