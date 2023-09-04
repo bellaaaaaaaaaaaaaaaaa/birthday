@@ -4,7 +4,7 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "hi～",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "my dear Maga",  // 同上...
+        "My dear Maga",  // 同上...
         "today is your birthday",
         "this is the first birthday we celebrate together",
         "I hop we can celebrate together next next......year all together",
